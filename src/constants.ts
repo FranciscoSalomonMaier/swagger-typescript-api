@@ -5,14 +5,7 @@ export const DEFAULT_BODY_ARG_NAME = "data";
 export const FILE_PREFIX = `/* eslint-disable */
 /* tslint:disable */
 // @ts-nocheck
-/*
- * ---------------------------------------------------------------
- * ## THIS FILE WAS GENERATED VIA SWAGGER-TYPESCRIPT-API        ##
- * ##                                                           ##
- * ## AUTHOR: acacode                                           ##
- * ## SOURCE: https://github.com/acacode/swagger-typescript-api ##
- * ---------------------------------------------------------------
- */
+
 
 `;
 
